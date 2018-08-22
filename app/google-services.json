@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411139490047",
+    "firebase_url": "https://androidavanzado-e58a0.firebaseio.com",
+    "project_id": "androidavanzado-e58a0",
+    "storage_bucket": "androidavanzado-e58a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411139490047:android:72014255cb680514",
+        "android_client_info": {
+          "package_name": "leon.pruebafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411139490047-fggkr3h4e12bu3ses5r4o2tlpjs83094.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZSWKKbvhorcbFyVi6F3yu-8jQQmf0to"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
